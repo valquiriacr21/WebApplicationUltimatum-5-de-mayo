@@ -1,0 +1,303 @@
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll.config
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\WebApplicationUltimatum.pdb
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csc.exe
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csc.exe.config
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csc.rsp
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csi.exe
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csi.exe.config
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\csi.rsp
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.AppContext.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Collections.Immutable.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Console.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Globalization.Calendars.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Net.Http.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Net.Sockets.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.ValueTuple.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\vbc.exe
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\vbc.exe.config
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\vbc.rsp
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe.config
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Antlr3.Runtime.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Microsoft.Web.Infrastructure.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Newtonsoft.Json.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Net.Http.Formatting.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Helpers.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Http.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Http.WebHost.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Mvc.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Optimization.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Razor.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\WebGrease.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Newtonsoft.Json.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Net.Http.Formatting.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Helpers.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Http.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Http.WebHost.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Mvc.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Optimization.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.Razor.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Antlr3.Runtime.pdb
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Helpers.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Http.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Mvc.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Optimization.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.Razor.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.WebPages.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.AssemblyReference.cache
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CoreCompileInputs.cache
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CopyComplete
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.pdb
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\EntityFramework.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\EntityFramework.SqlServer.dll
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\EntityFramework.xml
+E:\Repos\WebApplicationUltimatum\WebApplicationUltimatum\bin\EntityFramework.SqlServer.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll.config
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\WebApplicationUltimatum.pdb
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csc.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csc.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csc.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csi.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csi.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\csi.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.AppContext.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Collections.Immutable.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Console.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Globalization.Calendars.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Net.Http.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Net.Sockets.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Reflection.Metadata.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.ValueTuple.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\vbc.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\vbc.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\vbc.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Antlr3.Runtime.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\EntityFramework.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\EntityFramework.SqlServer.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Microsoft.Web.Infrastructure.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Newtonsoft.Json.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Net.Http.Formatting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Helpers.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.WebHost.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Mvc.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Optimization.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Razor.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\WebGrease.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\EntityFramework.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\EntityFramework.SqlServer.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Newtonsoft.Json.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Net.Http.Formatting.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Helpers.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.WebHost.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Mvc.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Optimization.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Razor.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Antlr3.Runtime.pdb
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Net.Http.Formatting.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Helpers.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Http.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Http.WebHost.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Mvc.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Optimization.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.Razor.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.WebPages.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.AssemblyReference.cache
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CoreCompileInputs.cache
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CopyComplete
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.pdb
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Cors.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.Cors.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite\WebApplicationUltimatum\bin\System.Web.Http.Cors.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll.config
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\WebApplicationUltimatum.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\WebApplicationUltimatum.pdb
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csc.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csc.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csc.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csi.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csi.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\csi.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.AppContext.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Collections.Immutable.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Console.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Globalization.Calendars.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Net.Http.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Net.Sockets.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Reflection.Metadata.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.ValueTuple.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\vbc.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\vbc.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\vbc.rsp
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\roslyn\VBCSCompiler.exe.config
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Antlr3.Runtime.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\EntityFramework.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\EntityFramework.SqlServer.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Microsoft.Web.Infrastructure.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Newtonsoft.Json.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Net.Http.Formatting.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Cors.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Helpers.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.Cors.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.WebHost.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Mvc.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Optimization.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Razor.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\WebGrease.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\EntityFramework.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\EntityFramework.SqlServer.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Net.Http.Formatting.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.Cors.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Newtonsoft.Json.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Helpers.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Http.WebHost.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Mvc.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Optimization.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.Razor.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.Deployment.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\System.Web.WebPages.Razor.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Antlr3.Runtime.pdb
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Net.Http.Formatting.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Http.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Helpers.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Http.WebHost.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Mvc.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Optimization.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.Razor.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.WebPages.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.AssemblyReference.cache
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CoreCompileInputs.cache
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.csproj.CopyComplete
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.dll
+I:\Repos - copiar\WebApplicationUltimatumModifite the last 15-04-22\WebApplicationUltimatum\obj\Debug\WebApplicationUltimatum.pdb
